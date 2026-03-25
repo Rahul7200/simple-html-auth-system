@@ -1,30 +1,26 @@
-# Simple HTML Authentication System
+# Bootstrap Authentication UI
 
-This project is a basic authentication page structure built using only HTML.
+## 📌 Features
+- Login Page
+- Registration Page
+- Forgot Password Page
+- Reset Password Page
+- Dashboard Page
 
-## Pages Included
+## 🎨 Design
+- Bootstrap 5
+- Responsive layout
+- Glassmorphism UI
+- Custom CSS styling
 
-- login.html
-- register.html
-- forgot-password.html
-- reset-password.html
-- dashboard.html
+## 🚀 How to Run
+1. Download the project
+2. Open index.html in browser
 
-## Features
+## 📱 Responsive
+- Mobile
+- Tablet
+- Desktop
 
-- Simple HTML structure
-- Page redirection using anchor tags
-- No CSS used
-- No JavaScript used
-
-## Page Flow
-
-Login → Dashboard  
-Register → Login  
-Forgot Password → Reset Password  
-Reset Password → Login  
-Dashboard → Logout → Login  
-
-## Author
-
-Rahul Kn
+## 👨‍💻 Author
+Rahul
