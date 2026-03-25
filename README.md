@@ -15,7 +15,7 @@
 
 ## 🚀 How to Run
 1. Download the project
-2. Open index.html in browser
+2. Open login.html in browser
 
 ## 📱 Responsive
 - Mobile
